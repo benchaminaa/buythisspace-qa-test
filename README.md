@@ -7,6 +7,7 @@ $ git clone git@github.com:benchaminaa/buythisspace-qa-test.git
 ```
 
 #### Running tests locally
+Run following command in your **project directory**
 
 ```
 $ npm install
